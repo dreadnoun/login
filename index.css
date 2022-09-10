@@ -1,0 +1,46 @@
+body {
+    background: linear-gradient( to left,#de6161,#2657eb );
+} 
+.box {
+    width: 600px;
+    height: 350px;
+   text-align: center;
+    box-shadow: 5px 5px 11px;
+   background: linear-gradient( 45deg ,#ff00cc,#333399 );
+   margin-top: 150px;
+   margin-left: 350px;
+}
+.form1 {
+    padding-top: 10px;
+}
+label {
+    padding-right: 210px;
+    color: #fff;
+    font-size: 17px;
+}
+input{
+    width: 270px;
+    height: 24px;
+    border: none;
+}
+h1 {
+    color: #fff;
+    padding-top: 10px;
+    font-size: 35px;
+}
+button {
+    border: none;
+    background-color: #fff;
+    color: black;
+    height: 25px;
+    width: 80px;
+}
+.p1 {
+    color: #fff;
+    padding-right: 110px;
+    font-size: 15px;
+}
+.p2 {
+    padding-right: 110px;
+    font-size: 15px;
+}
